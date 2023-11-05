@@ -336,7 +336,7 @@ def oturum_kapat():
 
     
 master = tk.Tk()
-master.title('Archer C5V test v2.0')
+master.title('Archer C5V test v2.1')
 
 tk.Button(master,
           text='Kur',
